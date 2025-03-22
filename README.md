@@ -1,4 +1,4 @@
-# Automated Backup Automation with Bash & Cron
+# Automated Backup Script with Bash & Cron
 
 ## Project Description
 
