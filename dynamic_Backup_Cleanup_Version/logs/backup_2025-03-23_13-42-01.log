@@ -1,0 +1,4 @@
+[2025-03-23_13-42-01] Backup start
+tar: Removing leading `/' from member names
+Success: /home/beti/simple-backup/dynamic_Backup_Version/backups/backup_2025-03-23_13-42-01.tar.gz created
+[2025-03-23_13-42-01] Backup completed. 

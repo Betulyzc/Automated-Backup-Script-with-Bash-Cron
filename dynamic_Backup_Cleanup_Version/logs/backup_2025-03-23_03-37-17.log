@@ -1,0 +1,6 @@
+[2025-03-23_03-37-17] Timestamp file not found.Creating first one... 
+[2025-03-23_03-37-17] Backup start
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+Success: /home/beti/testingDir/backups/backup_2025-03-23_03-37-17.tar.gz created
+[2025-03-23_03-37-17] Backup completed. 

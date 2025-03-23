@@ -1,11 +1,11 @@
 
 #!/bin/bash
 
-cd /home/beti/simple-backup
+cd /home/beti/simple-backup/static_Backup_Version
 
-Backup_Directory="/home/beti/simple-backup/backups"
-Log_Directory="/home/beti/simple-backup/logs"
-Cleanup_Log_Directory="/home/beti/simple-backup/cleanup"
+Backup_Directory="/home/beti/simple-backup/static_Backup_Version/backups"
+Log_Directory="/home/beti/simple-backup/static_Backup_Version/logs"
+Cleanup_Log_Directory="/home/beti/simple-backup/static_Backup_Version/cleanup"
 
 mkdir -p "$Backup_Directory"
 mkdir -p "$Log_Directory"

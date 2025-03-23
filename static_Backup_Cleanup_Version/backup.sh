@@ -3,14 +3,14 @@
 
 # Settings
 
-cd /home/beti/simple-backup
+cd /home/beti/simple-backup/static_Backup_Version #for cron
 
-mkdir -p /home/beti/simple-backup/logs
-mkdir -p /home/beti/simple-backup/backups
+mkdir -p /home/beti/simple-backup/static_Backup_Version/logs
+mkdir -p /home/beti/simple-backup/static_Backup_Version/backups
 
-Source_Directory="/home/beti/simple-backup/source"
-Backup_Directory="/home/beti/simple-backup/backups"
-Log_Directory="/home/beti/simple-backup/logs"
+Source_Directory="/home/beti/simple-backup/static_Backup_Version/source"
+Backup_Directory="/home/beti/simple-backup/static_Backup_Version/backups"
+Log_Directory="/home/beti/simple-backup/static_Backup_Version/logs"
 
 Date=$(date +"%Y-%m-%d_%H-%M-%S") #Date was used for unique records.
 
@@ -35,6 +35,8 @@ else
 fi
 
 echo "[$Date] Backup completed. " >> "$Log_File"
+
+
 
 
 

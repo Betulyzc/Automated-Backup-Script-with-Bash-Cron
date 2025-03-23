@@ -1,0 +1,5 @@
+[2025-03-23_12-21-27] Backup start
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+Success: /home/beti/testingDir/backups/backup_2025-03-23_12-21-27.tar.gz created
+[2025-03-23_12-21-27] Backup completed. 
